@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <widget id="com.portgall.app" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
     
-    <name>Portgall - Experiential Tourism - Tour Own Travel Experience in Porto</name>
+    <name>Portgall</name>
     <description>Portgall provides a new way of planning your DIY trip to Porto, giving you the possibility of freely combining creative and authentic travel experiences.</description>
     <author email="customercare@portgall.com" href="http://www.portgall.com">Portgall development</author>
 
@@ -48,5 +48,5 @@
     <gap:splash src="res/screen/ios/Deafult-568h-2x.png" gap:platform="ios" width="640" height="1136" />
 
     <content src="http://www.portgall.com" />
-    <access origin="*" subdomains="true" />
+    <access origin="portgall.com" subdomains="true" />
 </widget>
